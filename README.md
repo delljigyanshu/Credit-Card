@@ -18,7 +18,7 @@ A machine learning project for detecting fraudulent credit card transactions usi
 
 ## 📦 Project Structure  
 
-credit-card/
+credit-card/ <br/>
 ├── creditcard.csv # Dataset used for training/testing <br/>
 ├── credit_card.ipynb # Jupyter Notebook with model & analysis <br/>
 ├── model.pkl # Saved Logistic Regression model <br/>
