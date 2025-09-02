@@ -65,5 +65,5 @@ Execute the cells step by step to preprocess, train, evaluate, and test predicti
 ## 🙋‍♂ Author
 
 Jigyanshu Agrawal <br/>
-GitHub: @delljigyanshu <br/>
-LinkedIn: Jigyanshu Agrawal
+   GitHub: [@delljigyanshu](https://github.com/delljigyanshu/Credit-Card) <br/>
+LinkedIn: [Jigyanshu Agrawal](https://www.linkedin.com/in/jigyanshu-agrawal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
