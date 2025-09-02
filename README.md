@@ -2,14 +2,7 @@
 
 A machine learning project for detecting fraudulent credit card transactions using **Logistic Regression**, built with Python. The model identifies suspicious activities by analyzing transaction patterns, helping in fraud prevention and security.  
 
-![Screenshot](screenshot2.png)  
-
----
-
-## 🔗 Live Demo  
-
-Check out the live notebook/project here:  
-👉 [Link](https://github.com/delljigyanshu/Credit-Card)  
+![Screenshot](Screenshot2.png)  
 
 ---
 
